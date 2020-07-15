@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Assets" t="Include">
+          <e p="clear-sans" t="Include">
+            <e p="Apache License.txt" t="Include" />
+          </e>
+        </e>
+        <e p="BlurShader.shader" t="Include" />
+        <e p="Editor" t="Include">
+          <e p="ToggleExtension.cs" t="Include" />
+        </e>
+        <e p="Root" t="Include">
+          <e p="Карты" t="Include">
+            <e p="ReadMe.txt" t="Include" />
+          </e>
+          <e p="Планшеты фракций" t="Include">
+            <e p="ReadMe.txt" t="Include" />
+          </e>
+          <e p="Поля" t="Include">
+            <e p="ReadMe.txt" t="Include" />
+          </e>
+          <e p="Правила" t="Include">
+            <e p="ReadMe.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="BackgroundAnimation.cs" t="Include" />
+          <e p="Containers" t="Include">
+            <e p="Container.cs" t="Include" />
+            <e p="FactionContainer.cs" t="Include" />
+            <e p="GameContainer.cs" t="Include" />
+            <e p="PlayerContainer.cs" t="Include" />
+            <e p="ThemeContainer.cs" t="Include" />
+          </e>
+          <e p="Controller" t="Include">
+            <e p="Controller.cs" t="Include" />
+            <e p="DialogsController.cs" t="Include" />
+            <e p="FactionStatsController.cs" t="Include" />
+            <e p="HomeController.cs" t="Include" />
+            <e p="InputController.cs" t="Include" />
+            <e p="MenuController.cs" t="Include" />
+            <e p="PlayerStatsController.cs" t="Include" />
+          </e>
+          <e p="Enums" t="Include">
+            <e p="InputDataType.cs" t="Include" />
+            <e p="ThemeType.cs" t="Include" />
+          </e>
+          <e p="Faction.cs" t="Include" />
+          <e p="Fields" t="Include">
+            <e p="AddPlayerField.cs" t="Include" />
+            <e p="CommonInputData.cs" t="Include" />
+            <e p="CommonStatsField.cs" t="Include" />
+            <e p="FactionInputData.cs" t="Include" />
+            <e p="HomeFactionField.cs" t="Include" />
+            <e p="HomeTimeUser.cs" t="Include" />
+            <e p="HomeUserField.cs" t="Include" />
+            <e p="OtherFactionStatsField.cs" t="Include" />
+            <e p="PlayerFactionStatsListField.cs" t="Include" />
+            <e p="PlayerInputData.cs" t="Include" />
+          </e>
+          <e p="FooterButtonContainers" t="Include">
+            <e p="FactionsFooter.cs" t="Include" />
+            <e p="FooterButtonContainer.cs" t="Include" />
+            <e p="HomeFooter.cs" t="Include" />
+            <e p="InputFooter.cs" t="Include" />
+            <e p="PlayersFooter.cs" t="Include" />
+          </e>
+          <e p="Game.cs" t="Include" />
+          <e p="GamePlayer.cs" t="Include" />
+          <e p="Initializer.cs" t="Include" />
+          <e p="Interfaces" t="Include">
+            <e p="IThemeListener.cs" t="Include" />
+          </e>
+          <e p="Managers" t="Include">
+            <e p="BaseManager.cs" t="Include" />
+            <e p="ThemeManager.cs" t="Include" />
+          </e>
+          <e p="MenuAnimation.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
+          <e p="SingletonBehaviour.cs" t="Include" />
+          <e p="ThemeResources" t="Include">
+            <e p="ButtonTheme.cs" t="Include" />
+            <e p="DropdownTheme.cs" t="Include" />
+            <e p="InputFieldTheme.cs" t="Include" />
+            <e p="TextTheme.cs" t="Include" />
+            <e p="Theme.cs" t="Include" />
+            <e p="ToggleTheme.cs" t="Include" />
+            <e p="WindowTheme.cs" t="Include" />
+          </e>
+          <e p="UI" t="Include">
+            <e p="ButtonExtension.cs" t="Include" />
+            <e p="DropDownExtension.cs" t="Include" />
+            <e p="DropdownTemplate.cs" t="Include" />
+            <e p="InputFieldExtension.cs" t="Include" />
+            <e p="Tables" t="Include">
+              <e p="Table.cs" t="Include" />
+              <e p="TopPlayerTable.cs" t="Include" />
+              <e p="WinrateByExpTable.cs" t="Include" />
+              <e p="WinrateByPlayerCountTable.cs" t="Include" />
+            </e>
+            <e p="TextExtension.cs" t="Include" />
+            <e p="ToggleExtension.cs" t="Include" />
+          </e>
+          <e p="Views" t="Include">
+            <e p="Dialogs" t="Include">
+              <e p="ChoosePlayerDialog.cs" t="Include" />
+              <e p="DialogView.cs" t="Include" />
+              <e p="PlayerDialog.cs" t="Include" />
+              <e p="SettingDialog.cs" t="Include" />
+            </e>
+            <e p="FactionStats" t="Include">
+              <e p="FactionCommonStats.cs" t="Include" />
+              <e p="FactionInfoView.cs" t="Include" />
+              <e p="FactionListView.cs" t="Include" />
+              <e p="FactionPlayerStats.cs" t="Include" />
+              <e p="OtherFactionsStats.cs" t="Include" />
+              <e p="OtherFactionStatsInfo.cs" t="Include" />
+              <e p="OtherFactionStatsList.cs" t="Include" />
+            </e>
+            <e p="Home" t="Include">
+              <e p="HomeFactionListView.cs" t="Include" />
+              <e p="HomeTimeListView.cs" t="Include" />
+              <e p="HomeUserListView.cs" t="Include" />
+            </e>
+            <e p="Input" t="Include">
+              <e p="CommonDataView.cs" t="Include" />
+              <e p="FactionsDataView.cs" t="Include" />
+              <e p="FactionView.cs" t="Include" />
+              <e p="PlayerDataView.cs" t="Include" />
+            </e>
+            <e p="MainView.cs" t="Include" />
+            <e p="PlayerStats" t="Include">
+              <e p="OtherPlayersStats.cs" t="Include" />
+              <e p="PlayerCommonStats.cs" t="Include" />
+              <e p="PlayerFactionsStats.cs" t="Include" />
+              <e p="PlayerFactionStatsInfo.cs" t="Include" />
+              <e p="PlayerFactionStatsList.cs" t="Include" />
+              <e p="PlayerInfoView.cs" t="Include" />
+              <e p="PlayerListView.cs" t="Include" />
+            </e>
+            <e p="View.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Root Statistics.sln" t="IncludeFlat" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_Root Statistics.-1286997400.00" t="ExcludeRecursive" />
+  </component>
+</project>
